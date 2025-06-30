@@ -1,0 +1,51 @@
+user_id,timestamp,entry,manually_labeled_emotion
+user_3,2025-06-28T23:40:23.644767,Just tired and drained.,tired
+user_9,2025-06-19T23:40:23.644793,Feeling overwhelmed with work today.,content
+user_7,2025-06-23T23:40:23.644803,Feeling anxious about upcoming exams.,tired
+user_4,2025-06-29T23:40:23.644812,Struggling to sleep lately.,happy
+user_6,2025-06-11T23:40:23.644822,Feeling overwhelmed with work today.,tired
+user_9,2025-06-10T23:40:23.644832,Feeling anxious about upcoming exams.,tired
+user_4,2025-06-25T23:40:23.644842,Struggling to sleep lately.,content
+user_4,2025-06-21T23:40:23.644854,I had a good day overall.,sad
+user_6,2025-06-12T23:40:23.644865,Just tired and drained.,angry
+user_10,2025-06-29T23:40:23.644875,Motivated and focused today!,anxious
+user_2,2025-06-19T23:40:23.644884,Feeling overwhelmed with work today.,tired
+user_8,2025-06-22T23:40:23.644893,I'm grateful for my family.,content
+user_10,2025-06-09T23:40:23.644902,I had a good day overall.,content
+user_6,2025-06-20T23:40:23.644912,I had a good day overall.,tired
+user_7,2025-06-17T23:40:23.644921,I'm grateful for my family.,angry
+user_7,2025-06-26T23:40:23.644929,Just tired and drained.,content
+user_10,2025-06-29T23:40:23.644938,Just tired and drained.,anxious
+user_8,2025-06-29T23:40:23.644947,I'm grateful for my family.,sad
+user_9,2025-06-10T23:40:23.644956,I'm grateful for my family.,tired
+user_5,2025-06-24T23:40:23.644966,Feeling anxious about upcoming exams.,sad
+user_5,2025-06-14T23:40:23.644975,Struggling to sleep lately.,anxious
+user_3,2025-06-29T23:40:23.644984,Just tired and drained.,tired
+user_6,2025-06-19T23:40:23.644993,Feeling overwhelmed with work today.,happy
+user_3,2025-06-17T23:40:23.645002,I'm grateful for my family.,sad
+user_3,2025-06-14T23:40:23.645011,Just tired and drained.,happy
+user_7,2025-06-18T23:40:23.645021,Struggling to sleep lately.,happy
+user_7,2025-06-24T23:40:23.645031,I'm grateful for my family.,tired
+user_2,2025-06-08T23:40:23.645040,Just tired and drained.,angry
+user_8,2025-06-25T23:40:23.645049,Feeling anxious about upcoming exams.,tired
+user_8,2025-05-31T23:40:23.645058,Feeling anxious about upcoming exams.,tired
+user_1,2025-06-01T23:40:23.645067,Feeling overwhelmed with work today.,content
+user_5,2025-06-20T23:40:23.645076,I had a good day overall.,angry
+user_2,2025-06-29T23:40:23.645085,Struggling to sleep lately.,sad
+user_1,2025-06-11T23:40:23.645095,I had a good day overall.,happy
+user_10,2025-06-11T23:40:23.645115,Feeling anxious about upcoming exams.,angry
+user_9,2025-05-31T23:40:23.645124,Feeling overwhelmed with work today.,sad
+user_8,2025-06-20T23:40:23.645133,I had a good day overall.,angry
+user_1,2025-06-28T23:40:23.645143,Just tired and drained.,content
+user_6,2025-06-23T23:40:23.645151,Feeling anxious about upcoming exams.,angry
+user_10,2025-06-12T23:40:23.645161,Feeling overwhelmed with work today.,angry
+user_9,2025-06-06T23:40:23.645170,Feeling overwhelmed with work today.,tired
+user_9,2025-06-01T23:40:23.645179,Feeling overwhelmed with work today.,sad
+user_1,2025-06-19T23:40:23.645188,I had a good day overall.,happy
+user_1,2025-06-26T23:40:23.645197,Just tired and drained.,tired
+user_3,2025-06-15T23:40:23.645206,Motivated and focused today!,tired
+user_6,2025-06-19T23:40:23.645215,I had a good day overall.,tired
+user_5,2025-06-02T23:40:23.645224,Struggling to sleep lately.,content
+user_3,2025-06-16T23:40:23.645234,Motivated and focused today!,angry
+user_5,2025-06-04T23:40:23.645243,I had a good day overall.,content
+user_5,2025-06-02T23:40:23.645252,Just tired and drained.,anxious
