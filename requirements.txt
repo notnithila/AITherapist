@@ -1,0 +1,6 @@
+streamlit
+sqlalchemy
+python-dotenv
+transformers
+torch
+numpy
