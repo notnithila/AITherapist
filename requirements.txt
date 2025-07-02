@@ -5,4 +5,4 @@ transformers
 torch
 numpy
 dotenv
-openai
+openai==0.28
