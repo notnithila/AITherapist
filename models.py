@@ -1,4 +1,4 @@
-from sqlalchemy import Column, Integer, String, Text, DateTime, ForeignKey, create_engine
+from sqlalchemy import Column, Integer, Text, DateTime, ForeignKey
 from sqlalchemy.orm import declarative_base, relationship
 from datetime import datetime
 
@@ -19,8 +19,6 @@ class AnalysisResult(Base):
 
     id = Column(Integer, primary_key=True)
     journal_id = Column(Integer, ForeignKey('journal_entries.id'))
-    mental_state = Column(String)
-    emotional_intensity = Column(String)
-    recommendation_tags = Column(Text)
+    recommendation = Column(Text)
 
     entry = relationship("JournalEntry", back_populates="analysis")

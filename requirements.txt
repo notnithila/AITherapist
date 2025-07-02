@@ -4,3 +4,5 @@ python-dotenv
 transformers
 torch
 numpy
+dotenv
+openai
