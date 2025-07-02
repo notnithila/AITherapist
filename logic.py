@@ -10,7 +10,7 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
     
 def analyze_journal_locally(text):
     prompt = f"""
-Analyze the following journal entry and return a string containing advice or recommendations based on the entry. Say "Sorry, I can't help with that right now." if the entry has anything not relevant to mood or emotion.
+Analyze the following journal entry and respond with a thoughtful, specific recommendation or piece of advice related to the user's mood or emotional state. If the journal entry contains positive emotions, offer reinforcement, encouragement, or tips to maintain well-being. If the mood is unclear, offer a gentle check-in or a general self-care suggestion. If the entry is not relevant to mood or emotion, say "Sorry, I can't help you with that right now." Do not include any characters other than the string (no quotes, no brackets).
 
 Journal:
 {text}
@@ -63,3 +63,4 @@ def get_user_entries(user_id, time=None):
         return db.query(JournalEntry).filter(JournalEntry.user_id == user_id).order_by(JournalEntry.timestamp.desc()).all()
     finally:
         db.close()
+

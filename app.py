@@ -17,7 +17,7 @@ if st.button("Submit Entry"):
     if journal_text.strip():
         journal, analysis = save_entry(user_id, journal_text)
         st.success("Entry analyzed and saved!")
-        st.subheader("🧠 My Recommendation")
+        st.subheader("💬 My Recommendation")
         st.write(analysis)
 
     else:
