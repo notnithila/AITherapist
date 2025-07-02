@@ -31,8 +31,8 @@ Journal:
         return output
 
     except Exception as e:
-        return(f"Error from OpenAI: {e}")
-     #   return "Sorry, AITherapist is down right now. Please try again later."
+        print(f"Error from OpenAI: {e}")
+        return "Sorry, AITherapist is down right now. Please try again later."
 
 def save_entry(user_id, text):
     analysis_output = analyze_journal_locally(text)
