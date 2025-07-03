@@ -5,7 +5,7 @@
 
 ### Takeaways
 
-<p>My biggest takeaway from this project is truly how powerful Python can be if the right tools are used. Python is my strongest coding language but I still did not realize how many things you can really accomplish with it. From interacting with LLMs, to maintaining a backend, to designing a UI, Python is a very versatile language that I still have more to learn about. It was also a useful experience to compare how interacting with different models looks like. I've used Amazon Titan Text Express in Bedrock previously and the differences in difficulty of prompting to get the right outputs between the two models was an interesting experience.</p>
+<p>My biggest takeaway from this project is truly how powerful Python can be if the right tools are used. Python is my strongest coding language but I still did not realize how many things you can really accomplish with it. From interacting with LLMs, to maintaining a backend, to designing a UI, Python is a very versatile language to build a solid application architecture with. It was also a useful experience to compare how interacting with different models looks like. I've used Amazon Titan Text Express in Bedrock previously and the differences in difficulty of prompting to get the right outputs between the two models was an intriguing experience.</p>
 
 ### Future Goals
 
